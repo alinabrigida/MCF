@@ -2,3 +2,4 @@
 
 nome
 cognome
+classe
