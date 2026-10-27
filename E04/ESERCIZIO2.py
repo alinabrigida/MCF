@@ -14,7 +14,6 @@ print(df_estratto)
 
 #RICHIESTA 4
 M1 = df2['pl_bmassj']
-
 P1 = df2['pl_orbper']
 
 plt.scatter( P1, M1, color='royalblue', s=32, label='Massa vs Periodo')
